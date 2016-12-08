@@ -8,6 +8,12 @@
 
 /* Header&NavigationStyle*/
 
+.videoallign {
+    float:margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+
 @font-face {
     font-family: computer;
     src: url(computer.ttf);
@@ -112,7 +118,7 @@ productImg{
 
 .titleOfPage{
         font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
-        font-size: 24px;
+        font-size: 30px;
 	    font-style: normal;
 	    font-variant: normal;
 	    font-weight: 500;
